@@ -1,2 +1,2 @@
 # reddit-clone
-Reddit Clone API in spring boot and MySQL with JWT token
+Reddit Clone API in spring boot with MySQL and JWT token
